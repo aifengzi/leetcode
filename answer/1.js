@@ -53,3 +53,6 @@ const getSomeNum = (array, m) => {
 // 示例整数数组
 const nums = [1, 2, 3, 4, 5, 6, 7];
 const res = getSomeNum(nums, 8); // [ [ 1, 7 ], [ 2, 6 ], [ 3, 5 ] ]
+
+// 3、扩展: 从给定整数数组中找出n个数字，使其和等于m
+// TODO: 待补充
