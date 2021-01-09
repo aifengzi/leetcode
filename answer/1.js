@@ -14,19 +14,19 @@ const twoSum = (nums, target) => {
   for (let i = 0; i < nums.length; i += 1) {
     const num = nums[i];
     const remainNum = target - num;
-    const remainArray = [...array];
+    const remainArray = [...nums];
     remainArray.splice(i ,1);
-    const expectNum = remainArray.find((num) => num === remainNum);
-    if (expectNum !== undefined) {
-      result.push(num, expectNum);
+    const expectNumIndex = remainArray.findIndex((num) => num === remainNum);
+    if (expectNumIndex !== -1) {
+      result.push(i, expectNumIndex + 1);
       break;
     }
   }
+
   return result;
 };
 
 const result = twoSum(array, 8); // [1, 7]
-
 
 // 2、从给定数组中找出所有符之和为指定值的数字组合
 // 找到符合条件的两个数的所有组合
