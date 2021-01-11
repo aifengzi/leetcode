@@ -42,7 +42,7 @@ const filterSubstrList = (list = []) => {
  * 获取最长无重复字符的子串的长度
  * @param {String} s 字符串
  */
-var lengthOfLongestSubstring = function(s) {
+const lengthOfLongestSubstring = (s) => {
   if (!s) {
     return 0;
   }
@@ -60,6 +60,5 @@ var lengthOfLongestSubstring = function(s) {
 
   return max;
 };
-
 
 const res = lengthOfLongestSubstring('abcabcbb') // 3
