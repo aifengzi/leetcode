@@ -10,3 +10,4 @@ javascript版leetcode题库练习及解答
 [6、Z 字形变换](./answer/6.js) <br>
 [7、整数反转](./answer/7.js) <br>
 [8、字符串转换整数 (atoi)](./answer/8.js) <br>
+[9、回文数](./answer/9.js) <br>
