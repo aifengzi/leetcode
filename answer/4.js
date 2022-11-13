@@ -15,5 +15,6 @@ const findMedianSortedArrays = (nums1, nums2) => {
   return mergedNums[Math.floor(numCount / 2)];
 };
 
+// test
 console.log(findMedianSortedArrays([1, 3], [2]))
 console.log(findMedianSortedArrays([1, 2], [3, 4]))
