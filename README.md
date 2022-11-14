@@ -1,6 +1,6 @@
 [TOC]
 
-leetcode
+<h2>leetcode</h2>
 javascript版leetcode题库练习及解答
 
 ### 题目(按序号)
@@ -1007,6 +1007,7 @@ javascript版leetcode题库练习及解答
 [1000. 合并石头的最低成本](./answer/1000.js) <br>
 
 ### 题目(按难易程度)
+- [题目(按难易程度)](#题目(按难易程度))
 
 #### 简单
 
