@@ -1,5 +1,6 @@
 <h1>leetcode</h1>
-javascript版leetcode题库练习及解答
+
+> JavaScript版leetcode题库练习及解答
 
 <h1>目录</h1>
 
