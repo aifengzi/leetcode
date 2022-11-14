@@ -12,3 +12,4 @@ javascript版leetcode题库练习及解答
 [8、字符串转换整数 (atoi)](./answer/8.js) <br>
 [9、回文数](./answer/9.js) <br>
 [13、罗马数字转整数](./answer/13.js) <br>
+[14、最长公共前缀](./answer/14.js) <br>
