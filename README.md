@@ -1,20 +1,9 @@
-# leetcode
+[TOC]
+
+leetcode
 javascript版leetcode题库练习及解答
 
-# 题目
-[1、两数之和](./answer/1.js) <br>
-[2、两数相加](./answer/2.js) <br>
-[3、无重复字符的最长子串](./answer/3.js) <br>
-[4、寻找两个正序数组的中位数](./answer/4.js) <br>
-[5、最长回文子串](./answer/5.js) <br>
-[6、Z 字形变换](./answer/6.js) <br>
-[7、整数反转](./answer/7.js) <br>
-[8、字符串转换整数 (atoi)](./answer/8.js) <br>
-[9、回文数](./answer/9.js) <br>
-[13、罗马数字转整数](./answer/13.js) <br>
-[14、最长公共前缀](./answer/14.js) <br>
-[20、有效的括号](./answer/20.js) <br>
-
+### 题目(按序号)
 
 [1. 两数之和](./answer/1.js) <br>
 [2. 两数相加](./answer/2.js) <br>
@@ -1016,3 +1005,10 @@ javascript版leetcode题库练习及解答
 [998. 最大二叉树 II](./answer/998.js) <br>
 [999. 可以被一步捕获的棋子数](./answer/999.js) <br>
 [1000. 合并石头的最低成本](./answer/1000.js) <br>
+
+### 题目(按难易程度)
+
+#### 简单
+
+#### 中等
+#### 困难
