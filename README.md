@@ -1018,11 +1018,11 @@ JavaScript版leetcode题库练习及解答
 
 #### 简单
 
-- [ ] [1. 两数之和](./answer/1.js) <br>
-- [ ] [9. 回文数](./answer/9.js) <br>
-- [ ] [13. 罗马数字转整数](./answer/13.js) <br>
-- [ ] [14. 最长公共前缀](./answer/14.js) <br>
-- [ ] [20. 有效的括号](./answer/20.js) <br>
+- [x] [1. 两数之和](./answer/1.js) <br>
+- [x] [9. 回文数](./answer/9.js) <br>
+- [x] [13. 罗马数字转整数](./answer/13.js) <br>
+- [x] [14. 最长公共前缀](./answer/14.js) <br>
+- [x] [20. 有效的括号](./answer/20.js) <br>
 - [ ] [21. 合并两个有序链表](./answer/21.js) <br>
 - [ ] [26. 删除有序数组中的重复项](./answer/26.js) <br>
 - [ ] [27. 移除元素](./answer/27.js) <br>
