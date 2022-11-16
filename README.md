@@ -21,18 +21,18 @@ JavaScript版leetcode题库练习及解答
 - [ ] [6. Z 字形变换](./answer/6.js) <br>
 - [ ] [7. 整数反转](./answer/7.js) <br>
 - [ ] [8. 字符串转换整数 (atoi)](./answer/8.js) <br>
-- [ ] [9. 回文数](./answer/9.js) <br>
+- [x] [9. 回文数](./answer/9.js) <br>
 - [ ] [10. 正则表达式匹配](./answer/10.js) <br>
 - [ ] [11. 盛最多水的容器](./answer/11.js) <br>
 - [ ] [12. 整数转罗马数字](./answer/12.js) <br>
-- [ ] [13. 罗马数字转整数](./answer/13.js) <br>
-- [ ] [14. 最长公共前缀](./answer/14.js) <br>
+- [x] [13. 罗马数字转整数](./answer/13.js) <br>
+- [x] [14. 最长公共前缀](./answer/14.js) <br>
 - [ ] [15. 三数之和](./answer/15.js) <br>
 - [ ] [16. 最接近的三数之和](./answer/16.js) <br>
 - [ ] [17. 电话号码的字母组合](./answer/17.js) <br>
 - [ ] [18. 四数之和](./answer/18.js) <br>
 - [ ] [19. 删除链表的倒数第 N 个结点](./answer/19.js) <br>
-- [ ] [20. 有效的括号](./answer/20.js) <br>
+- [x] [20. 有效的括号](./answer/20.js) <br>
 - [ ] [21. 合并两个有序链表](./answer/21.js) <br>
 - [ ] [22. 括号生成](./answer/22.js) <br>
 - [ ] [23. 合并K个升序链表](./answer/23.js) <br>

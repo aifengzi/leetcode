@@ -4,7 +4,7 @@
  */
 
 /**
- * @param {array<string>} strs 需要转换的罗马数字
+ * @param {array<string>} strs 需要判断的字符串数组
  * @return {string} 最长公共前缀
  */
 const longestCommonPrefix = (strs = []) => {
