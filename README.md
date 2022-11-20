@@ -100,7 +100,7 @@ JavaScript版leetcode题库练习及解答
 - [ ] [85. 最大矩形](./answer/85.js) <br>
 - [ ] [86. 分隔链表](./answer/86.js) <br>
 - [ ] [87. 扰乱字符串](./answer/87.js) <br>
-- [ ] [88. 合并两个有序数组](./answer/88.js) <br>
+- [x] [88. 合并两个有序数组](./answer/88.js) <br>
 - [ ] [89. 格雷编码](./answer/89.js) <br>
 - [ ] [90. 子集 II](./answer/90.js) <br>
 - [ ] [91. 解码方法](./answer/91.js) <br>
@@ -1033,7 +1033,7 @@ JavaScript版leetcode题库练习及解答
 - [ ] [69. x 的平方根](./answer/69.js) <br>
 - [ ] [70. 爬楼梯](./answer/70.js) <br>
 - [ ] [83. 删除排序链表中的重复元素](./answer/83.js) <br>
-- [ ] [88. 合并两个有序数组](./answer/88.js) <br>
+- [x] [88. 合并两个有序数组](./answer/88.js) <br>
 - [ ] [94. 二叉树的中序遍历](./answer/94.js) <br>
 - [ ] [100. 相同的树](./answer/100.js) <br>
 - [ ] [101. 对称二叉树](./answer/101.js) <br>
