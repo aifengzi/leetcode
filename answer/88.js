@@ -62,3 +62,56 @@ console.log(merge(nums1, m, nums2, n))
 // const m= 3;
 // const n = 3;
 // console.log(merge(nums1, m, nums2, n))
+
+
+
+// 方案三： 从后往前，逆向双指针
+// const merge = function(nums1, m, nums2, n) {
+//   if (n === 0) {
+//     return nums1;
+//   }
+//   if (m === 0) {
+//     for (let i = 0;i < n; i += 1) {
+//       nums1[i] = nums2[i];
+//     }
+//     return nums1;
+//   }
+
+//   let i = m - 1;
+//   let j = n - 1;
+//   let k = m + n - 1;
+
+//   for (; i >= 0 , j >= 0;) {
+//     if (nums1[i] > nums2[j]) {
+//       nums1[k] = nums1[i];
+//       i -= 1;
+//     } else {
+//       nums1[k] = nums2[j];
+//       j -= 1;
+//     }
+//     k -= 1;
+//   }
+
+//   return nums1;
+// };
+
+// // test1
+// const nums1 = [1,2,3,0,0,0];
+// const nums2 = [2, 5, 6];
+// const m= 3;
+// const n = 3;
+// console.log(merge(nums1, m, nums2, n))
+
+// // test2
+// const nums1 = [];
+// const nums2 = [1];
+// const m= 0;
+// const n = 1;
+// console.log(merge(nums1, m, nums2, n))
+
+// // test3
+// const nums1 = [2, 0];
+// const nums2 = [1];
+// const m= 1;
+// const n = 1;
+// console.log(merge(nums1, m, nums2, n))
